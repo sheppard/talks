@@ -1,6 +1,7 @@
-title: Example
-section: Introduction
-bullets: 
- - Hello, world!
+title: Leaflet & d3.js
 order:
  - index
+ - intro
+ - leaflet
+ - d3
+ - integrate

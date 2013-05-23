@@ -1,0 +1,144 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "AREA": 65404401.1229, "PERIMETER": 67927.1926, "SPK_": 1.0, "SPK_ID": 1.0, "SP_NAME": "Savanna Portage State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.149205909000258, 46.835805650267645 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "AREA": 134701182.71327, "PERIMETER": 49845.92254, "SPK_": 2.0, "SPK_ID": 2.0, "SP_NAME": "Itasca State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.221090008582323, 47.189522445407732 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "AREA": 7208842.64643, "PERIMETER": 17485.01726, "SPK_": 3.0, "SPK_ID": 3.0, "SP_NAME": "Lake Bemidji State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.815258991284125, 47.539719970161393 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "AREA": 4479947.55102, "PERIMETER": 17665.85729, "SPK_": 4.0, "SPK_ID": 4.0, "SP_NAME": "Big Stone Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.564435185954366, 45.399822361068246 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "AREA": 11246217.36009, "PERIMETER": 37147.02669, "SPK_": 5.0, "SPK_ID": 5.0, "SP_NAME": "Minneopa State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.119759604862196, 44.172575750745203 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "AREA": 3379362.97005, "PERIMETER": 12015.66303, "SPK_": 6.0, "SPK_ID": 6.0, "SP_NAME": "Flandrau State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.468341578377448, 44.289593223308678 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "AREA": 5466415.52522, "PERIMETER": 11730.67806, "SPK_": 7.0, "SPK_ID": 7.0, "SP_NAME": "Moose Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.737374015325216, 46.43832069409175 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "AREA": 36737245.02502, "PERIMETER": 35201.5895, "SPK_": 8.0, "SPK_ID": 8.0, "SP_NAME": "Jay Cooke State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.34610605783574, 46.650176561838819 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "AREA": 9932336.95128, "PERIMETER": 15223.54799, "SPK_": 9.0, "SPK_ID": 10.0, "SP_NAME": "Crow Wing State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.336365263416141, 46.274114895045599 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "AREA": 1335663.00035, "PERIMETER": 6081.4642, "SPK_": 10.0, "SPK_ID": 11.0, "SP_NAME": "Schoolcraft State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.802417433353753, 47.223923845350782 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "AREA": 29905156.58237, "PERIMETER": 64252.58532, "SPK_": 11.0, "SPK_ID": 12.0, "SP_NAME": "Wild River State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.817837027558497, 45.564042041134854 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "AREA": 1143237.68572, "PERIMETER": 7818.10769, "SPK_": 12.0, "SPK_ID": 13.0, "SP_NAME": "Interstate State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.664784248462837, 45.39708152894476 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "AREA": 5297955.42743, "PERIMETER": 10672.91774, "SPK_": 13.0, "SPK_ID": 14.0, "SP_NAME": "Buffalo River State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.465831906728141, 46.863075509160417 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "AREA": 20093610.46074, "PERIMETER": 26103.60064, "SPK_": 14.0, "SPK_ID": 15.0, "SP_NAME": "Temperance River State Park" }, "geometry": { "type": "Point", "coordinates": [ -90.896394807119563, 47.564549663371132 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "AREA": 11719963.2595, "PERIMETER": 41739.3436, "SPK_": 15.0, "SPK_ID": 16.0, "SP_NAME": "Cascade River State Park" }, "geometry": { "type": "Point", "coordinates": [ -90.512984304341046, 47.710632240315718 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "AREA": 18593282.62703, "PERIMETER": 27627.55975, "SPK_": 16.0, "SPK_ID": 17.0, "SP_NAME": "Judge C. R. Magney State Park" }, "geometry": { "type": "Point", "coordinates": [ -90.065638234071372, 47.855201357139052 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "AREA": 1195421.58862, "PERIMETER": 8742.78373, "SPK_": 17.0, "SPK_ID": 18.0, "SP_NAME": "Grand Portage State Park" }, "geometry": { "type": "Point", "coordinates": [ -89.603929211587101, 48.006593773758333 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "AREA": 18590036.23575, "PERIMETER": 33277.72745, "SPK_": 18.0, "SPK_ID": 19.0, "SP_NAME": "Cuyana Country State Recreation Area" }, "geometry": { "type": "Point", "coordinates": [ -94.003229991785261, 46.486111671646533 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "AREA": 14976502.07168, "PERIMETER": 29314.41585, "SPK_": 19.0, "SPK_ID": 20.0, "SP_NAME": "Fort Snelling State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.190648000608633, 44.864429541769908 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "AREA": 7095241.03571, "PERIMETER": 12457.64059, "SPK_": 20.0, "SPK_ID": 21.0, "SP_NAME": "Rice Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.057157003879979, 44.087455828650363 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "AREA": 5245009.96746, "PERIMETER": 16396.31356, "SPK_": 21.0, "SPK_ID": 22.0, "SP_NAME": "Lake Carlos State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.343217029119955, 45.996493885634024 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "AREA": 12442847.26916, "PERIMETER": 24725.29697, "SPK_": 22.0, "SPK_ID": 23.0, "SP_NAME": "Forestville \/ Mystery Cave State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.215981083095059, 43.637200536671109 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "AREA": 6481147.17538, "PERIMETER": 20992.10001, "SPK_": 23.0, "SPK_ID": 24.0, "SP_NAME": "Myre Big Island State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.302609326988986, 43.636413171653338 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "AREA": 11575422.1227, "PERIMETER": 33127.47569, "SPK_": 24.0, "SPK_ID": 25.0, "SP_NAME": "Frontenac State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.356548979405531, 44.528409119758372 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "AREA": 4951106.37266, "PERIMETER": 14602.37849, "SPK_": 25.0, "SPK_ID": 26.0, "SP_NAME": "Beaver Creek Valley State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.580404369024677, 43.649919486726766 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "AREA": 15389452.9914, "PERIMETER": 19186.79903, "SPK_": 26.0, "SPK_ID": 27.0, "SP_NAME": "Scenic State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.564019300767214, 47.719607194114353 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "AREA": 2516426.79629, "PERIMETER": 6372.23633, "SPK_": 27.0, "SPK_ID": 28.0, "SP_NAME": "Hill Annex Mine State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.268336261987855, 47.333385149365007 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "AREA": 9621461.0104, "PERIMETER": 20932.56826, "SPK_": 28.0, "SPK_ID": 29.0, "SP_NAME": "McCarthy Beach State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.035070169252606, 47.699182605889234 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "AREA": 2233222.86114, "PERIMETER": 11552.39817, "SPK_": 29.0, "SPK_ID": 30.0, "SP_NAME": "Kilen Woods State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.068114626618112, 43.734571677547102 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "AREA": 13046539.69136, "PERIMETER": 23248.90772, "SPK_": 30.0, "SPK_ID": 31.0, "SP_NAME": "Sibley State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.049197244114438, 45.322294785973661 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "AREA": 15105758.594, "PERIMETER": 21758.81633, "SPK_": 31.0, "SPK_ID": 32.0, "SP_NAME": "Lake Bronson State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.596825483827189, 48.72914693853118 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "AREA": 3078816.05472, "PERIMETER": 11015.11932, "SPK_": 32.0, "SPK_ID": 33.0, "SP_NAME": "Lac Qui Parle State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.890503009083574, 45.027418616956474 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "AREA": 6813756.92653, "PERIMETER": 11687.35668, "SPK_": 33.0, "SPK_ID": 34.0, "SP_NAME": "Gooseberry Falls State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.47378599444086, 47.146553109216725 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "AREA": 8515319.45955, "PERIMETER": 21205.39, "SPK_": 34.0, "SPK_ID": 35.0, "SP_NAME": "Split Rock Lighthouse State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.402211666194077, 47.192830340206598 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "AREA": 35588917.19618, "PERIMETER": 47394.88483, "SPK_": 35.0, "SPK_ID": 36.0, "SP_NAME": "Tettegouche State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.255786442904224, 47.342884813773502 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "AREA": 15596243.79841, "PERIMETER": 40610.84737, "SPK_": 36.0, "SPK_ID": 37.0, "SP_NAME": "George Crosby Manitou State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.103313998213991, 47.477653209718525 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "AREA": 12325396.8141, "PERIMETER": 19726.76444, "SPK_": 37.0, "SPK_ID": 38.0, "SP_NAME": "Zippel Bay State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.861402579523059, 48.863833726678052 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "AREA": 2217565.02344, "PERIMETER": 11412.89077, "SPK_": 38.0, "SPK_ID": 39.0, "SP_NAME": "Garden Island State Recreation Area" }, "geometry": { "type": "Point", "coordinates": [ -94.85986080824037, 49.17811808584964 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "AREA": 3331820.47102, "PERIMETER": 13126.90824, "SPK_": 39.0, "SPK_ID": 40.0, "SP_NAME": "Sakatah Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.524513639965761, 44.221849186636909 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "AREA": 9023489.81278, "PERIMETER": 24326.14905, "SPK_": 40.0, "SPK_ID": 41.0, "SP_NAME": "Camden State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.931373462366196, 44.355851369538769 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "AREA": 1636617.5029, "PERIMETER": 6446.49156, "SPK_": 41.0, "SPK_ID": 42.0, "SP_NAME": "Old Mill State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.573045742344917, 48.363593425311421 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "AREA": 46435081.6305, "PERIMETER": 30886.72566, "SPK_": 42.0, "SPK_ID": 43.0, "SP_NAME": "Mille Lacs Kathio State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.743067928735897, 46.127069233629108 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "AREA": 1314040.20827, "PERIMETER": 6895.35541, "SPK_": 43.0, "SPK_ID": 44.0, "SP_NAME": "Father Hennepin State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.492215563101283, 46.145312875761363 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "AREA": 1321411.69562, "PERIMETER": 5622.27261, "SPK_": 44.0, "SPK_ID": 45.0, "SP_NAME": "Charles A. Lindbergh State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.394107461341392, 45.958676636099916 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "AREA": 4819652.54066, "PERIMETER": 9714.24284, "SPK_": 45.0, "SPK_ID": 46.0, "SP_NAME": "Lake Louise State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.524764122739597, 43.533143888716552 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "AREA": 3994324.79687, "PERIMETER": 14099.01238, "SPK_": 46.0, "SPK_ID": 47.0, "SP_NAME": "Lake Shetek State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.688012875292742, 44.100890527061473 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "AREA": 2344916.59286, "PERIMETER": 7141.89821, "SPK_": 47.0, "SPK_ID": 48.0, "SP_NAME": "Fort Ridgely State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.731609933500664, 44.453383613230649 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "AREA": 41952618.54585, "PERIMETER": 27814.59057, "SPK_": 48.0, "SPK_ID": 49.0, "SP_NAME": "Maplewood State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.951130530464198, 46.515816976978762 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "AREA": 11225644.18748, "PERIMETER": 18420.42648, "SPK_": 49.0, "SPK_ID": 50.0, "SP_NAME": "Glendalough State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.665249349264812, 46.327893998098773 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "AREA": 140757896.56709, "PERIMETER": 92613.62676, "SPK_": 50.0, "SPK_ID": 52.0, "SP_NAME": "Saint Croix State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.640100154164656, 45.956014333703465 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "AREA": 25196155.5547, "PERIMETER": 44658.85352, "SPK_": 51.0, "SPK_ID": 51.0, "SP_NAME": "Banning State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.84258414271558, 46.175545828957858 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "AREA": 957508.84945, "PERIMETER": 5261.62106, "SPK_": 52.0, "SPK_ID": 53.0, "SP_NAME": "Split Rock Creek State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.36310088109262, 43.89800524601381 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "AREA": 9957245.20969, "PERIMETER": 16438.56952, "SPK_": 53.0, "SPK_ID": 54.0, "SP_NAME": "Glacial Lakes State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.505026778987386, 45.532045730720782 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "AREA": 11340315.19896, "PERIMETER": 16032.10156, "SPK_": 54.0, "SPK_ID": 55.0, "SP_NAME": "Nerstrand Big Woods State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.109224328797183, 44.34373790813224 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "AREA": 7381559.03503, "PERIMETER": 14282.712, "SPK_": 55.0, "SPK_ID": 56.0, "SP_NAME": "Blue Mounds State Park" }, "geometry": { "type": "Point", "coordinates": [ -96.189152285384225, 43.703129509721407 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "AREA": 11976767.37432, "PERIMETER": 22536.45814, "SPK_": 56.0, "SPK_ID": 57.0, "SP_NAME": "Hayes Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.534398860593157, 48.628605550872727 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "AREA": 5344763.40675, "PERIMETER": 17446.81142, "SPK_": 57.0, "SPK_ID": 58.0, "SP_NAME": "Soudan Underground Mine State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.24166784824375, 47.826460169276515 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "AREA": 22207531.3192, "PERIMETER": 19765.13447, "SPK_": 58.0, "SPK_ID": 59.0, "SP_NAME": "Bear Head Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.073973713807945, 47.794142705169442 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "AREA": 20008497.85006, "PERIMETER": 76454.94055, "SPK_": 59.0, "SPK_ID": 61.0, "SP_NAME": "Minnesota Valley State Recreation Area" }, "geometry": { "type": "Point", "coordinates": [ -93.654417021982496, 44.700445286377239 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "AREA": 871414.02731, "PERIMETER": 5955.39833, "SPK_": 60.0, "SPK_ID": 62.0, "SP_NAME": "Monson Lake State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.270808196251593, 45.322945494942559 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "AREA": 855680.24954, "PERIMETER": 4629.90408, "SPK_": 61.0, "SPK_ID": 63.0, "SP_NAME": "Carley State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.174994243606349, 44.115994480977584 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "AREA": 6855618.76654, "PERIMETER": 19745.36201, "SPK_": 62.0, "SPK_ID": 64.0, "SP_NAME": "Afton State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.784794880784418, 44.859457047523414 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "AREA": 11532724.02937, "PERIMETER": 18553.32139, "SPK_": 63.0, "SPK_ID": 66.0, "SP_NAME": "Great River Bluffs State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.400015597010409, 43.941202413034922 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "AREA": 5986340.14286, "PERIMETER": 10691.96153, "SPK_": 64.0, "SPK_ID": 67.0, "SP_NAME": "John A. Latsch State Park" }, "geometry": { "type": "Point", "coordinates": [ -91.837865326046312, 44.161275569627534 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "AREA": 11158899.5159, "PERIMETER": 20062.01007, "SPK_": 65.0, "SPK_ID": 68.0, "SP_NAME": "Whitewater State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.052494017720079, 44.055947914240789 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "AREA": 7115647.33484, "PERIMETER": 11289.83705, "SPK_": 66.0, "SPK_ID": 69.0, "SP_NAME": "Lake Maria State Park" }, "geometry": { "type": "Point", "coordinates": [ -93.950662723547381, 45.315414772066148 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "AREA": 8847437.08327, "PERIMETER": 23723.78559, "SPK_": 67.0, "SPK_ID": 65.0, "SP_NAME": "William OBrien State Park" }, "geometry": { "type": "Point", "coordinates": [ -92.779254334628462, 45.21856380001001 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "AREA": 5482131.30797, "PERIMETER": 16447.28216, "SPK_": 68.0, "SPK_ID": 70.0, "SP_NAME": "Upper Sioux Agency State Park" }, "geometry": { "type": "Point", "coordinates": [ -95.448376470476447, 44.734756824365526 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "AREA": 487715.22767, "PERIMETER": 3869.61908, "SPK_": 69.0, "SPK_ID": 71.0, "SP_NAME": "Franz Jevne State Park" }, "geometry": { "type": "Point", "coordinates": [ -94.070453662405484, 48.643595795592873 ] } }
+
+]
+}

@@ -1,0 +1,4 @@
+title: Custom Basemaps
+js: map
+menu-hide: true
+transition: "flip"

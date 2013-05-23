@@ -1,0 +1,4 @@
+title: Example Map
+js: map
+menu-hide: true
+transition: "flip"

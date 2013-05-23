@@ -27,6 +27,12 @@
             "jsonp": "define"
         },
         {
+            "paths": ["data"],
+            "output": "js/data.js",
+            "type": "json",
+            "jsonp": "define"
+        },
+        {
             "paths": ["slides"],
             "output": "js/slides/json.js",
             "type": "json",
