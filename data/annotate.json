@@ -1,0 +1,361 @@
+{
+    "steps": [{
+        "label": "visit table",
+        "from": "top",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 200,
+                "y": 50,
+                "columns": [30, 70, 70, 90, 60, 60, 60]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["sl", "visit", 0, 3, "Location"],
+            ["p1", "visit", 0, 4, "Appr."],
+            ["p2", "visit", 0, 5, "Temp."],
+            ["p3", "visit", 0, 6, "pH"]
+        ]
+    }, {
+        "label": "1 row",
+        "from": "left",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 200,
+                "y": 50,
+                "columns": [30, 70, 70, 90, 60, 60, 60]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["sl", "visit", 0, 3, "Location"],
+            ["p1", "visit", 0, 4, "Appr."],
+            ["p2", "visit", 0, 5, "Temp."],
+            ["p3", "visit", 0, 6, "pH"],
+
+            ["r0vi", "visit", 1, 0, "v1"],
+            ["r0vn", "visit", 1, 1, "andrew"],
+            ["r0vd", "visit", 1, 2, "Nov 1"],
+            ["s0sl", "visit", 1, 3, "-99.5,45"],
+            ["r0p1", "visit", 1, 4, "Good"],
+            ["r0p2", "visit", 1, 5, "20"],
+            ["r0p3", "visit", 1, 6, "7.5"]
+        ]
+    }, {
+        "label": "3 rows",
+        "from": "left",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 200,
+                "y": 50,
+                "columns": [30, 70, 70, 90, 60, 60, 60]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["sl", "visit", 0, 3, "Location"],
+            ["p1", "visit", 0, 4, "Appr."],
+            ["p2", "visit", 0, 5, "Temp."],
+            ["p3", "visit", 0, 6, "pH"],
+
+            ["r0vi", "visit", 1, 0, "v1"],
+            ["r0vn", "visit", 1, 1, "andrew"],
+            ["r0vd", "visit", 1, 2, "Nov 1"],
+            ["s0sl", "visit", 1, 3, "-99.5,45"],
+            ["r0p1", "visit", 1, 4, "Good"],
+            ["r0p2", "visit", 1, 5, "20"],
+            ["r0p3", "visit", 1, 6, "7.5"],
+
+            ["r1vi", "visit", 2, 0, "v2"],
+            ["r1vn", "visit", 2, 1, "steven"],
+            ["r1vd", "visit", 2, 2, "Nov 2"],
+            ["s1sl", "visit", 2, 3, "-94,48"],
+            ["r1p1", "visit", 2, 4, "Fair"],
+            ["r1p2", "visit", 2, 5, "23"],
+            ["r1p3", "visit", 2, 6, "7.1"],
+
+            ["r2vi", "visit", 3, 0, "v3"],
+            ["r2vn", "visit", 3, 1, "andrew"],
+            ["r2vd", "visit", 3, 2, "Nov 3"],
+            ["s0sl2", "visit", 3, 3, "-99.5,45"],
+            ["r2p1", "visit", 3, 4, "Good"],
+            ["r2p2", "visit", 3, 5, "19"],
+            ["r2p3", "visit", 3, 6, "6.8"]
+        ]
+    }, {
+        "label": "separate site",
+        "from": "auto",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 200,
+                "y": 50,
+                "columns": [30, 70, 70, 50, 60, 60, 60]
+            },
+            "site": {
+                "name": "Site",
+                "x": 200,
+                "y": 250,
+                "columns": [30, 50, 70]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["vs", "visit", 0, 3, "Site"],
+            ["p1", "visit", 0, 4, "Appr."],
+            ["p2", "visit", 0, 5, "Temp."],
+            ["p3", "visit", 0, 6, "pH"],
+
+            ["si", "site",  0, 0, "ID"],
+            ["sn", "site",  0, 1, "Name"],
+            ["sl", "site",  0, 2, "Location"],
+
+            ["r0vi", "visit", 1, 0, "v1"],
+            ["r0vn", "visit", 1, 1, "andrew"],
+            ["r0vd", "visit", 1, 2, "Nov 1"],
+            ["r0si", "visit", 1, 3, "s1"],
+            ["r0p1", "visit", 1, 4, "Good"],
+            ["r0p2", "visit", 1, 5, "20"],
+            ["r0p3", "visit", 1, 6, "7.5"],
+
+            ["r1vi", "visit", 2, 0, "v2"],
+            ["r1vn", "visit", 2, 1, "steven"],
+            ["r1vd", "visit", 2, 2, "Nov 2"],
+            ["r1si", "visit", 2, 3, "s2"],
+            ["r1p1", "visit", 2, 4, "Fair"],
+            ["r1p2", "visit", 2, 5, "23"],
+            ["r1p3", "visit", 2, 6, "7.1"],
+
+            ["r2vi", "visit", 3, 0, "v3"],
+            ["r2vn", "visit", 3, 1, "andrew"],
+            ["r2vd", "visit", 3, 2, "Nov 3"],
+            ["r2si", "visit", 3, 3, "s1"],
+            ["r2p1", "visit", 3, 4, "Good"],
+            ["r2p2", "visit", 3, 5, "19"],
+            ["r2p3", "visit", 3, 6, "6.8"],
+
+            ["s0si", "site", 1, 0, "s1"],
+            ["s0sn", "site", 1, 1, "Site 1"],
+            ["s0sl", "site", 1, 2, "-99.5,45"],
+            ["s0sl2", "site", 1, 2, "-99.5,45"],
+
+            ["s1si", "site", 2, 0, "s2"],
+            ["s1sn", "site", 2, 1, "Site 2"],
+            ["s1sl", "site", 2, 2, "-94,48"]
+        ]
+    }, {
+        "label": "separate param",
+        "from": "right",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 100,
+                "y": 50,
+                "columns": [30, 70, 70, 50, 60, 60, 60]
+            },
+            "site": {
+                "name": "Site",
+                "x": 150,
+                "y": 250,
+                "columns": [30, 50, 70]
+            },
+            "parameter": {
+                "name": "Parameter",
+                "x": 500,
+                "y": 100,
+                "columns": [30, 70]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["vs", "visit", 0, 3, "Site"],
+
+            ["si", "site",  0, 0, "ID"],
+            ["sn", "site",  0, 1, "Name"],
+            ["sl", "site",  0, 2, "Location"],
+
+            ["pi", "parameter", 0, 0, "ID"],
+            ["pn", "parameter", 0, 1, "Name"],
+
+            ["r0vi", "visit", 1, 0, "v1"],
+            ["r0vn", "visit", 1, 1, "andrew"],
+            ["r0vd", "visit", 1, 2, "Nov 1"],
+            ["r0si", "visit", 1, 3, "s1"],
+            ["r0p1", "visit", 1, 4, "Good"],
+            ["r0p2", "visit", 1, 5, "20"],
+            ["r0p3", "visit", 1, 6, "7.5"],
+
+            ["r1vi", "visit", 2, 0, "v2"],
+            ["r1vn", "visit", 2, 1, "steven"],
+            ["r1vd", "visit", 2, 2, "Nov 2"],
+            ["r1si", "visit", 2, 3, "s2"],
+            ["r1p1", "visit", 2, 4, "Fair"],
+            ["r1p2", "visit", 2, 5, "23"],
+            ["r1p3", "visit", 2, 6, "7.1"],
+
+            ["r2vi", "visit", 3, 0, "v3"],
+            ["r2vn", "visit", 3, 1, "andrew"],
+            ["r2vd", "visit", 3, 2, "Nov 3"],
+            ["r2si", "visit", 3, 3, "s1"],
+            ["r2p1", "visit", 3, 4, "Good"],
+            ["r2p2", "visit", 3, 5, "19"],
+            ["r2p3", "visit", 3, 6, "6.8"],
+
+            ["s0si", "site", 1, 0, "s1"],
+            ["s0sn", "site", 1, 1, "Site 1"],
+            ["s0sl", "site", 1, 2, "-99.5,45"],
+            ["s0sl2", "site", 1, 2, "-99.5,45"],
+
+            ["s1si", "site", 2, 0, "s2"],
+            ["s1sn", "site", 2, 1, "Site 2"],
+            ["s1sl", "site", 2, 2, "-94,48"],
+
+            ["p1i", "parameter", 1, 0, "p1"],
+            ["p1", "parameter", 1, 1, "Appr."],
+
+            ["p2i", "parameter", 2, 0, "p2"],
+            ["p2", "parameter", 2, 1, "Temp."],
+
+            ["p3i", "parameter", 3, 0, "p3"],
+            ["p3", "parameter", 3, 1, "pH"]
+        ]
+    }, {
+        "label": "separate result",
+        "from": "right",
+        "tables": {
+            "visit": {
+                "name": "Event",
+                "x": 50,
+                "y": 50,
+                "columns": [30, 70, 70, 50]
+            },
+            "site": {
+                "name": "Site",
+                "x": 100,
+                "y": 250,
+                "columns": [30, 50, 70]
+            },
+            "parameter": {
+                "name": "Parameter",
+                "x": 600,
+                "y": 100,
+                "columns": [30, 70]
+            },
+            "result": {
+                 "name": "Result",
+                 "x": 350,
+                 "y": 70,
+                 "columns": [30, 30, 50, 70]
+            }
+        },
+        "items": [
+            ["vi", "visit", 0, 0, "ID"],
+            ["vn", "visit", 0, 1, "Name"],
+            ["vd", "visit", 0, 2, "Date"],
+            ["vs", "visit", 0, 3, "Site"],
+
+            ["si", "site",  0, 0, "ID"],
+            ["sn", "site",  0, 1, "Name"],
+            ["sl", "site",  0, 2, "Location"],
+
+            ["pi", "parameter", 0, 0, "ID"],
+            ["pn", "parameter", 0, 1, "Name"],
+
+            ["ri", "result", 0, 0, "ID"],
+            ["rv", "result", 0, 1, "VID"],
+            ["rp", "result", 0, 2, "PID"],
+            ["rd", "result", 0, 3, "Value"],
+
+            ["r0vi", "visit", 1, 0, "v1"],
+            ["r0vn", "visit", 1, 1, "andrew"],
+            ["r0vd", "visit", 1, 2, "Nov 1"],
+            ["r0si", "visit", 1, 3, "s1"],
+
+            ["r1vi", "visit", 2, 0, "v2"],
+            ["r1vn", "visit", 2, 1, "steven"],
+            ["r1vd", "visit", 2, 2, "Nov 2"],
+            ["r1si", "visit", 2, 3, "s2"],
+
+            ["r2vi", "visit", 3, 0, "v3"],
+            ["r2vn", "visit", 3, 1, "andrew"],
+            ["r2vd", "visit", 3, 2, "Nov 3"],
+            ["r2si", "visit", 3, 3, "s1"],
+
+            ["s0si", "site", 1, 0, "s1"],
+            ["s0sn", "site", 1, 1, "Site 1"],
+            ["s0sl", "site", 1, 2, "-99.5,45"],
+            ["s0sl2", "site", 1, 2, "-99.5,45"],
+
+            ["s1si", "site", 2, 0, "s2"],
+            ["s1sn", "site", 2, 1, "Site 2"],
+            ["s1sl", "site", 2, 2, "-94,48"],
+
+            ["p1i", "parameter", 1, 0, "p1"],
+            ["p1", "parameter", 1, 1, "Appr."],
+
+            ["p2i", "parameter", 2, 0, "p2"],
+            ["p2", "parameter", 2, 1, "Temp."],
+
+            ["p3i", "parameter", 3, 0, "p3"],
+            ["p3", "parameter", 3, 1, "pH"],
+
+            ["r0p1i", "result", 1, 0, "r1"],
+            ["r0p1v", "result", 1, 1, "v1"],
+            ["r0p1p", "result", 1, 2, "p1"],
+            ["r0p1", "result", 1, 3, "Good"],
+
+            ["r0p2i", "result", 2, 0, "r2"],
+            ["r0p2v", "result", 2, 1, "v1"],
+            ["r0p2p", "result", 2, 2, "p2"],
+            ["r0p2", "result", 2, 3, "20"],
+
+            ["r0p3i", "result", 3, 0, "r3"],
+            ["r0p3v", "result", 3, 1, "v1"],
+            ["r0p3p", "result", 3, 2, "p3"],
+            ["r0p3", "result", 3, 3, "7.5"],
+
+            ["r1p1i", "result", 4, 0, "r4"],
+            ["r1p1v", "result", 4, 1, "v2"],
+            ["r1p1p", "result", 4, 2, "p1"],
+            ["r1p1", "result", 4, 3, "Fair"],
+
+            ["r1p2i", "result", 5, 0, "r5"],
+            ["r1p2v", "result", 5, 1, "v2"],
+            ["r1p2p", "result", 5, 2, "p2"],
+            ["r1p2", "result", 5, 3, "23"],
+
+            ["r1p3i", "result", 6, 0, "r6"],
+            ["r1p3v", "result", 6, 1, "v2"],
+            ["r1p3p", "result", 6, 2, "p3"],
+            ["r1p3", "result", 6, 3, "7.1"],
+
+            ["r2p1i", "result", 7, 0, "r7"],
+            ["r2p1v", "result", 7, 1, "v3"],
+            ["r2p1p", "result", 7, 2, "p1"],
+            ["r2p1", "result", 7, 3, "Good"],
+
+            ["r2p2i", "result", 8, 0, "r8"],
+            ["r2p2v", "result", 8, 1, "v3"],
+            ["r2p2p", "result", 8, 2, "p2"],
+            ["r2p2", "result", 8, 3, "19"],
+
+            ["r2p3i", "result", 9, 0, "r9"],
+            ["r2p3v", "result", 9, 1, "v3"],
+            ["r2p3p", "result", 9, 2, "p3"],
+            ["r2p3", "result", 9, 3, "6.8"]
+        ]
+    }]
+}

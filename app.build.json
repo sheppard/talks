@@ -1,6 +1,5 @@
 {
     "optimize": {
-        "optimize": "none",
         "appDir": ".",
         "baseUrl": "js",
         "dir": "build",
@@ -24,6 +23,12 @@
             "paths": ["templates"],
             "output": "js/templates.js",
             "type": "html",
+            "jsonp": "define"
+        },
+        {
+            "paths": ["data"],
+            "output": "js/data.js",
+            "type": "json",
             "jsonp": "define"
         },
         {

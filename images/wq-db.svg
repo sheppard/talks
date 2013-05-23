@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="275"
+   height="550"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="wq-db.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview5931"
+     showgrid="false"
+     inkscape:zoom="0.42909091"
+     inkscape:cx="137.5"
+     inkscape:cy="275"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path4505"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4508"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path4490"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4629"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend-3"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4508-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker9145"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path9147"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker9149"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path9151"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-50)"
+     id="layer2">
+    <g
+       transform="translate(-450,-377.36218)"
+       id="g9103">
+      <path
+         d="m 450,664.86218 0,62.5 275,0 0,-62.5 m 0,0 0,-5.4375 c 0,-3.91737 -3.1451,-7.0625 -7.0625,-7.0625 l -260.875,0 c -3.91737,0 -7.0625,3.14513 -7.0625,7.0625 l 0,5.4375"
+         id="path5231"
+         style="fill:#eeeeff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="275"
+         height="75"
+         x="450"
+         y="727.36218"
+         id="rect3926"
+         style="fill:#ddffee;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="275"
+         height="125"
+         ry="0"
+         x="450"
+         y="802.36218"
+         id="rect5235"
+         style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 450,964.8622 0,-37.50002 275,0 0,37.50002 m 0,0 0,5.43752 c 0,3.9174 -3.1451,7.06248 -7.0625,7.06248 l -260.875,0 c -3.91737,0 -7.0625,-3.14508 -7.0625,-7.06248 l 0,-5.43752"
+         id="path3924"
+         style="fill:#ececec;stroke:#999999;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     transform="translate(0,-502.36218)"
+     id="layer1">
+    <text
+       x="34.119362"
+       y="1077.9408"
+       id="text4990"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="34.119362"
+         y="1077.9408"
+         id="tspan4992" /></text>
+    <text
+       x="137.5"
+       y="539.86218"
+       id="text4011"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="137.5"
+         y="539.86218"
+         id="tspan4013">storage</tspan></text>
+    <g
+       transform="matrix(1.6965138,0,0,1.6965138,-290.88112,-484.60847)"
+       id="g4248"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.44234467;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         d="m 248.20536,623.43807 c -6.90356,0 -12.5,5.59644 -12.5,12.5 0,0.063 -9.3e-4,0.12473 0,0.1875 -2.23799,-2.10975 -5.24412,-3.40625 -8.5625,-3.40625 -5.12808,0 -9.54121,3.08209 -11.46875,7.5 -1.8744,-1.12193 -4.0316,-1.78125 -6.375,-1.78125 -6.90356,0 -12.5,5.59644 -12.5,12.5 0,6.66158 5.21318,12.09526 11.78125,12.46875 l 0,0.0312 71.0625,0 0,-0.25 c 0.80447,0.16256 1.6476,0.25 2.5,0.25 6.90356,0 12.5,-5.59644 12.5,-12.5 0,-6.90356 -5.59644,-12.5 -12.5,-12.5 -0.63666,0 -1.26394,0.0644 -1.875,0.15625 0.0661,-0.5206 0.0937,-1.0552 0.0937,-1.59375 0,-6.90356 -5.59644,-12.5 -12.5,-12.5 -3.74986,0 -7.11511,1.66629 -9.40625,4.28125 -2.25961,-3.23249 -6.0068,-5.34375 -10.25,-5.34375 z"
+         id="path4229"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.17888808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         id="g4287"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.17888808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <rect
+           width="24.642857"
+           height="50.714287"
+           x="283.57144"
+           y="622.7193"
+           id="rect4242"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.17888808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           d="m 292.85714,-112.5 11.42857,0"
+           transform="translate(0,752.36218)"
+           id="path4244"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.17888808;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           d="m 292.85714,633.86218 11.42857,0"
+           id="path4246"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.17888808;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <text
+       x="137.47656"
+       y="708.32703"
+       id="text5055"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="137.47656"
+         y="708.32703"
+         id="tspan5057"
+         style="font-size:16px">Central Web service</tspan></text>
+    <text
+       x="-411.81622"
+       y="848.83813"
+       transform="scale(-1,1)"
+       id="text5128"
+       xml:space="preserve"
+       style="font-size:24.23777199px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="-411.81622"
+         y="848.83813"
+         id="tspan5130"
+         style="font-size:16.9664402px" /></text>
+    <text
+       x="652.55853"
+       y="749.81897"
+       id="text5151"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="652.55853"
+         y="749.81897"
+         id="tspan5153" /></text>
+    <g
+       transform="translate(-450,24.999997)"
+       id="g9215">
+      <rect
+         width="250"
+         height="50"
+         ry="0"
+         x="462.5"
+         y="789.86218"
+         id="rect4058"
+         style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="112.5"
+         height="50"
+         ry="0"
+         x="462.5"
+         y="871.11218"
+         id="rect4060"
+         style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1.06066024;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="112.5"
+         height="50"
+         ry="0"
+         x="600"
+         y="871.11218"
+         id="rect4062"
+         style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1.06066024;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         x="587.00171"
+         y="899.69861"
+         id="text3013"
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="587.00171"
+           y="899.69861"
+           id="tspan3017"
+           style="font-style:normal" /></text>
+      <text
+         x="656.38013"
+         y="892.83362"
+         id="text3025"
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="656.38013"
+           y="892.83362"
+           id="tspan3027">Django</tspan><tspan
+           x="656.38013"
+           y="909.08362"
+           id="tspan5087">Social Auth</tspan></text>
+      <text
+         x="518.75317"
+         y="891.57361"
+         id="text5083"
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="518.75317"
+           y="891.57361"
+           id="tspan5085">South</tspan><tspan
+           x="518.75317"
+           y="907.82361"
+           id="tspan5089">(Data Migration)</tspan></text>
+      <g
+         transform="translate(496.11557,15.984617)"
+         id="g9118">
+        <rect
+           width="250"
+           height="25"
+           ry="0"
+           x="-33.61557"
+           y="917.62756"
+           id="rect5081"
+           style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="90.771881"
+           y="933.71393"
+           id="text3029"
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="90.771881"
+             y="933.71393"
+             id="tspan3031">Django REST Framework</tspan></text>
+      </g>
+      <g
+         transform="translate(562.78564,2.663572)"
+         id="g9097">
+        <rect
+           width="250"
+           height="25"
+           ry="0"
+           x="-100.28564"
+           y="987.19861"
+           id="rect9095"
+           style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="24.428719"
+           y="1003.285"
+           id="text3033"
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="24.428719"
+             y="1003.285"
+             id="tspan3035">Python + Django</tspan></text>
+      </g>
+      <path
+         d="m 587.5,933.61218 0,-93.75"
+         id="path9127"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+      <path
+         d="m 518.75,871.11218 0,-31.25"
+         id="path9129"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+      <path
+         d="m 656.25,871.11218 0,-31.25"
+         id="path9131"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+      <g
+         transform="translate(473.64478,21.413572)"
+         id="g8776">
+        <rect
+           width="250"
+           height="50"
+           ry="0"
+           x="-11.14478"
+           y="693.44861"
+           id="rect8778"
+           style="fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           x="113.54101"
+           y="715.17004"
+           id="text8780"
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+             x="113.54101"
+             y="715.17004"
+             id="tspan8782"
+             style="font-style:normal">Project-specific database</tspan><tspan
+             x="113.54101"
+             y="731.42004"
+             id="tspan9185"
+             style="font-style:normal">models &amp; workflow</tspan></text>
+      </g>
+      <path
+         d="m 587.5,789.86218 0,-25"
+         id="path8784"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+    </g>
+    <g
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text3021">
+      <path
+         d="m 99.845485,847.57721 2.240005,0 3.304,-10.164 3.332,10.164 2.212,0 5.936,-15.316 -2.016,0 -4.984,12.824 -3.612,-10.948 -1.708,0 -3.612,10.948 -4.872005,-12.824 -2.072,0 5.852,15.316"
+         style="font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="path5934" />
+      <path
+         d="m 134.37167,832.26121 -2.072,0 0,2.632 c -1.288,-1.96 -3.416,-2.996 -6.02,-2.996 -4.56399,0 -8.064,3.5 -8.064,8.036 0,4.50799 3.55601,8.008 8.12,8.008 2.548,0 4.62,-1.036 5.964,-2.996 l 0,8.008 2.072,0 0,-20.692 m -8.008,1.54 c 3.472,0 6.076,2.66 6.076,6.216 0,3.36 -2.688,6.02 -6.076,6.02 -3.44399,0 -6.048,-2.632 -6.048,-6.076 0,-3.528 2.60401,-6.16 6.048,-6.16"
+         style="font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="path5936" />
+      <path
+         d="m 138.95361,847.57721 2.072,0 0,-3.528 -2.072,0 0,3.528"
+         style="font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="path5938" />
+      <path
+         d="m 161.30724,826.88521 -2.072,0 0,7.812 c -1.512,-1.82 -3.61201,-2.8 -6.02,-2.8 -4.62,0 -8.148,3.472 -8.148,8.036 0,4.53599 3.612,8.008 8.344,8.008 2.54799,0 4.284,-0.924 5.824,-3.136 l 0,2.772 2.072,0 0,-20.692 m -8.148,6.916 c 3.38799,0 6.16,2.716 6.16,6.076 0,3.36 -2.68801,6.16 -5.964,6.16 -3.5,0 -6.188,-2.688 -6.188,-6.188 0,-3.36 2.66,-6.048 5.992,-6.048"
+         style="font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="path5940" />
+      <path
+         d="m 164.85055,847.57721 2.072,0 0,-2.632 c 1.288,1.904 3.472,2.996 5.992,2.996 4.61999,0 8.092,-3.44401 8.092,-8.036 0,-4.508 -3.52801,-8.008 -8.064,-8.008 -2.576,0 -4.704,1.064 -6.02,2.996 l 0,-8.008 -2.072,0 0,20.692 m 8.036,-13.776 c 3.44399,0 6.02,2.604 6.02,6.048 0,3.528 -2.60401,6.188 -6.048,6.188 -1.708,0 -3.108,-0.588 -4.312,-1.82 -1.204,-1.232 -1.764,-2.632 -1.764,-4.368 0,-3.388 2.688,-6.048 6.104,-6.048"
+         style="font-variant:normal;font-stretch:normal;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold"
+         id="path5942" />
+    </g>
+  </g>
+</svg>

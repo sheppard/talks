@@ -1,6 +1,6 @@
-title: Example
-section: Introduction
-bullets: 
- - Hello, world!
 order:
- - index
+ - qrcode
+ - demos
+ - quality
+ - wq
+ - conclusion

@@ -1,20 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html manifest="talk.appcache">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <title>Talk</title>
+    <title>wq@foss4g-na</title>
     <link rel="stylesheet" href="css/talk.css">
     <script src="js/wq/lib/require.js" data-main="js/talk"></script>
   </head>
   <body>
-    <div data-role="page" class="ui-page">
-      <div data-role="content" style="text-align:center">
-        <h1>Talk</h1>
-        <a data-role="button" data-icon="arrow-r" data-iconpos="right" data-inline="true"
-           href="index">Start Presentation</a>
+    <div data-role="page" class="ui-page title">
+      <div data-role="content">
+        <div class="ui-grid-a">
+          <div class="ui-block-a">
+            <img src="images/wq.png">
+          </div>
+          <div class="ui-block-b">
+             <h2>
+               <span>An</span> Open Source 
+               <span>Framework</span>
+               <span>for</span> Volunteer Field
+               Data Collection
+             </h2>
+          </div>
+        </div>
+        <div style="text-align:center">
+          <h3>S. Andrew Sheppard</h3>
+          <h4>University of Minnesota & Houston Engineering, Inc.</h4>
+        </div>
+      </div>
+      <div data-role="footer" data-theme="d" data-position="fixed">
+        <h3>&nbsp;</h3>
+        <a data-icon="arrow-r" data-iconpos="right" class="ui-btn-right"
+           data-transition="flow" data-theme="b"
+           href="qrcode">Start</a>
       </div>
     </div>
   </body>

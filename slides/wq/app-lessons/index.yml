@@ -1,0 +1,10 @@
+label: Lessons Learned
+markdown: "# Lessons Learned"
+class: lesson
+order:
+ - lesson1
+ - lesson2
+ - lesson3
+ - lesson3-2
+ - lesson4
+ - lesson4-2

@@ -1,0 +1,22 @@
+.ui-page.title .ui-content, .ui-page.title {
+    background: #223 !important;
+}
+.ui-page.title .ui-content {
+    padding-top: 3em;
+    color: #eee !important;
+    text-shadow: none !important;
+}
+.ui-page.title .ui-block-a img {
+    max-width: 100%;
+}
+.ui-page.title .ui-block-a {
+    width: 33%;
+    padding-left: 2%;
+}
+.ui-page.title .ui-block-b {
+    width: 66%;
+    padding-right: 2%;
+}
+.ui-page.title .ui-content span {
+    font-size: 32px;
+}
